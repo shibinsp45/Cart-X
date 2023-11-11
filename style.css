@@ -121,7 +121,7 @@ p {
   h1 {
     font-size: 30px;
     margin-top: 60px;
-    padding-left: 10px;
+    padding-left: 15px;
   }
   .s-btn {
     margin-left: 10px;
@@ -133,5 +133,8 @@ p {
   }
   .news {
     margin-left: 10px;
+  }
+  .prod1{
+    margin-left:30px;
   }
 }
